@@ -1,0 +1,7 @@
+{
+  "name": "dkmt-vite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
