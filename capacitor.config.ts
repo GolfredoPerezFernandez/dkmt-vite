@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'public/build',
   bundledWebRuntime: false,
   server: {
-    url: "http://localhost:5173",
+    url: "https://dkmt-vite-p4f3mjxfl-golfredopf.vercel.app/",
     cleartext: true
   }
 };
