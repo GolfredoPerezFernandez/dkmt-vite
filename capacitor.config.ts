@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'public/build',
   bundledWebRuntime: false,
   server: {
-    url: "https://dkmt-vite-late-sea-1887.fly.dev/",
+    url: "https://dkmt-vite.fly.dev/",
     cleartext: true
   }
 };
