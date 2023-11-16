@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'public/build',
   bundledWebRuntime: false,
   server: {
-    url: "https://dkmt-vite-p4f3mjxfl-golfredopf.vercel.app/",
+    url: "https://dkmt-vite-late-sea-1887.fly.dev/",
     cleartext: true
   }
 };
