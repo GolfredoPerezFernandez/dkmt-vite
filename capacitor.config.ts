@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   webDir: 'public/build',
   bundledWebRuntime: false,
   server: {
-    url: "https://dkmt-vite.fly.dev/",
+    url: "https://lightmatter-vite-black-tree-1935.fly.dev/",
     cleartext: true
   }
 };

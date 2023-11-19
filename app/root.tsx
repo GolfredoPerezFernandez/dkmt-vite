@@ -8,8 +8,8 @@ import {
   ScrollRestoration,
   useLoaderData,
 } from "@remix-run/react";
-import styles from "./tailwind.css";
-import nprogressCss from "./nprogress.css";
+import styles from "~/tailwind.css";
+import nprogressCss from "~/nprogress.css";
 
 import Layout from "~/components/Layout";
 import type { DataFunctionArgs } from "@remix-run/node";
